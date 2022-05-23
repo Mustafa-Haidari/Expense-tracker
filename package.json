@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mustafa-haidari/github.io/expense-tracker",
-  "name": "expense-app-3",
+  "homepage": "http://mustafa-haidari.github.io/expense-tracker",
+  "name": "expense-tracker-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
